@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  font-family: 'Orbitron', sans-serif;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background: #42445A;
+}
+div {
+  font-size: 50px;
+  color: #07FE14;
+}
